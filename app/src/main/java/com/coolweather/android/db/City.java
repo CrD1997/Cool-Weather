@@ -45,4 +45,3 @@ public class City extends DataSupport {
     }
 
 }
-
